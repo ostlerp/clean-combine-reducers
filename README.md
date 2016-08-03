@@ -1,7 +1,7 @@
 Clean Combine Reducers
 =========================
 
-The goal of this function is to combine reducers in a way that doesn't pollute the store with null objects. The usage is identical to using the combineReducers in the Redux library.
+The goal of this function is to combine reducers in a way that doesn't pollute the store with null objects. The usage is identical to using the combineReducers in the [Redux](https://github.com/reactjs/redux) library.
 
 
 ## Installation
