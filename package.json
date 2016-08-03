@@ -1,0 +1,15 @@
+{
+  "name": "clean-combine-reducers",
+  "version": "1.0.0",
+  "description": "A combine reducer that cleans up after itself.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostlerp/clean-combine-reducers.git"
+  },
+  "author": "Pat Ostler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ostlerp/clean-combine-reducers/issues"
+  },
+  "homepage": "https://github.com/ostlerp/clean-combine-reducers#readme"
+}
