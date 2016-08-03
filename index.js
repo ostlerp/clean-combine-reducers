@@ -13,7 +13,7 @@ if (!Array.isArray) {
 }
 
 
-export default function(reducers){
+module.exports = function(reducers){
 
   if (reducers === null || typeof reducers !== 'object') {
     return {};
