@@ -7,7 +7,7 @@
     "url": "git+https://github.com/ostlerp/clean-combine-reducers.git"
   },
   "author": "Pat Ostler",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ostlerp/clean-combine-reducers/issues"
   },
